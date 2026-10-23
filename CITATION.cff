@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+type: dataset
+title: "Datasets: Active Thermal Control and LCL Current-Loop Stability in SiC and GaN Grid-Connected Inverters"
+authors:
+  - family-names: "Hossain"
+    given-names: "Md. Sazzad"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: CC-BY-4.0
+keywords:
+  - active thermal control
+  - LCL filter
+  - grid-connected inverter
+  - silicon carbide
+  - gallium nitride
+  - digital twin
+  - sampled-data stability
